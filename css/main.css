@@ -23,12 +23,10 @@ html {
   display: block;
   width: 100%;
 }
-
 .banner {
-
 }
-
 .banner-content {
- color: black;
+  color: black;
+  position: relative;
 
 }
