@@ -25,11 +25,11 @@ html {
 }
 
 .banner {
-  position: absolute;
+  position: relative;
 }
 
 .banner-content {
   color: black;
-  position: relative;
+  position: absolute;
 
 }
