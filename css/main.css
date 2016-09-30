@@ -23,8 +23,11 @@ html {
   display: block;
   width: 100%;
 }
+
 .banner {
+  position: absolute;
 }
+
 .banner-content {
   color: black;
   position: relative;
